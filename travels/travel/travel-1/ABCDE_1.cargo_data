@@ -1,0 +1,15 @@
+# invalid id:
+#lower case:
+ccCU2666542, 7, FGHIJ
+#4th letter:
+CCCR2666542, 7, FGHIJ
+#invalid number:
+CCCR2666a42, 7, FGHIJ
+#invalid weight:
+CCCR2666a42, t, FGHIJ
+#invalid dest:
+CCCR2666a42, 7, YY11Y
+#invalid number of parameters
+CCCR2666a42, YY11Y
+CCCR2666a42711Y
+CCCR2666a42, 7, FGHIJ, a
