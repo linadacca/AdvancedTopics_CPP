@@ -14,5 +14,3 @@ we programmed two algorithms, where algororithm _#_a does move operations, and _
 less efficient.
 
 we handled some error cases as well - you may check the bonus.txt file for more info.
-
-Please contact Lina and Weaam for ship loading/unloading services.   
